@@ -1,4 +1,4 @@
-package br.com.devduo.projectx.modules.user;
+package br.com.devduo.projectx.modules.entities;
 
 import java.util.UUID;
 
