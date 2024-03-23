@@ -1,4 +1,4 @@
-package br.com.devduo.projectx.Controllers;
+package br.com.devduo.projectx.controllers;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

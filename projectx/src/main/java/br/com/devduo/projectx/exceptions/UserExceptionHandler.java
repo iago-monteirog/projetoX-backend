@@ -1,4 +1,4 @@
-package br.com.devduo.projectx.excptions;
+package br.com.devduo.projectx.exceptions;
 
 import java.util.ArrayList;
 import java.util.List;
