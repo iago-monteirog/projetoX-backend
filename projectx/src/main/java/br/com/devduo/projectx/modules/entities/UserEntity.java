@@ -15,7 +15,7 @@ import jakarta.validation.constraints.Pattern;
 import lombok.Data;
 
 @Data
-@Entity(name = "user")
+@Entity(name = "tb_user")
 public class UserEntity {
 
   @Id
